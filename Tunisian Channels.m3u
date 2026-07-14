@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="watania1" tvg-name="Watania 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxRPJpm6i-X1AcOMJkUQVGlV6LgzJDS_3EUqQUO15F6ZnJGR16oqVliT64&s=10" group-title="Tunisia",Channel 1
+https://sw1.tanitweb.net/TunisiaTV/watania1/chunklist_w738775173.m3u8
+
+#EXTINF:-1 tvg-id="watania2" tvg-name="Watania 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jiLEZcjSmwbTKribpPwyTdd6Ijq9cXemXtdcpb97tA&s=10" group-title="Tunisia",Channel 2
+https://sw1.tanitweb.net/TunisiaTV/watania2/chunklist_w667264898.m3u8
+
+#EXTINF:-1 tvg-id="elhiwar_ettounsi" tvg-name="elhiwar ettounsi" tvg-logo="https://idaraty.tn/images/media-brands/elhiwarettounsi.png" group-title="Tunisia",Channel 3
+https://games1.elahmad.store/tv10_www.elahmad.com_elhiwar_ettounsi/tracks-v1a1/mono.m3u8?token=c5150c939315aa8a1ab2bc0f58a6ae74d8752cbd-47aaac860e2c935625558b3be5476a00-1783992005-1783990205
+
+#EXTINF:-1 tvg-id="nessma_l_jadida" tvg-name="Nessma el jadida" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdqm6xzsTpGWWaTEvajlyjBmbvl9gYt4qXPQzXrIPxSQ&s=10" group-title="Tunisia",Channel 4
+https://games1.elahmad.store/tv10_www.elahmad.com_nessma/tracks-v1a1/mono.m3u8?token=d4fe3752b90ec37c16d1bd46bacba3535b922ebf-d01dc13657e33866d2279f4fecacb1c7-1783991060-1783989260
+
+#EXTINF:-1 tvg-id="attessia" tvg-name="Attessia" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/64/Attessia_TV.png" group-title="Tunisia",Channel 5
+https://games1.elahmad.store/tv10_www.elahmad.com_attessia/tracks-v1a1/mono.m3u8?token=5c912d0a5f6926e0136c8bade249c61f6fcb52e0-ee6abe2ca087cc90f2dd1d894e9af2b4-1783991892-1783990092
+
+#EXTINF:-1 tvg-id="telvza_tv" tvg-name="Telvza TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqn1wGI1l0PQkdBzvPkij2kh1M-vQKjsd8lsGudlxHtQ&s=10" group-title="Tunisia",Channel 6
+https://games1.elahmad.store/tv10_www.elahmad.com_telvza/tracks-v1a1/mono.m3u8?token=b1fb07dd171b4232d8c7e1752fdd49229d61b7e9-f328f3b8af80e2b956e4a20261b8125a-1783991841-1783990041
+
+#EXTINF:-1 tvg-id="tunisna" tvg-name="Tunisna" tvg-logo="https://www.tekiano.com/wp-content/uploads/2015/09/chaine-tounesna.jpg" group-title="Tunisia",Channel 7
+https://games1.elahmad.store/tv10_www.elahmad.com_tunisna/tracks-v1a1/mono.m3u8?token=528b50752b15762ac606e140a23479d68a01614c-345097f7b00072d70cf9b2d9f154e24a-1783991769-1783989969
